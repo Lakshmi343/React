@@ -1,0 +1,49 @@
+
+.style{
+    width: 100%;
+     border: 1px solid blueviolet; 
+    position: absolute;
+    height: 19rem;
+}
+
+.desc{
+    position: relative;
+    margin-left: 30px;
+    padding: 40px;
+    font-size: 25px;
+}
+.head1{
+    color: darkgray;
+    font-style: italic;
+}
+.para{
+    color: rgb(79, 64, 92);
+    font-size: larger;
+    font-size: 29px;
+}
+.butsty{
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    border-color: blueviolet;
+    background: darkmagenta;
+}
+.shadowbox{
+
+  box-shadow: 4px 4px 4px 0px rgb(116, 98, 98);
+}
+.descon1{
+    text-align: center;
+    margin-top: 40px;
+}
+.head2{
+    color:darkolivegreen;
+    font-style: italic;
+}
+.descon2{
+    text-align: end;
+    margin-top: 40px;
+}
+.head3{
+    color:darkgrey;
+}

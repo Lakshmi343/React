@@ -1,0 +1,41 @@
+ /* h1{
+    text-align: center;
+    color: brown;
+}
+.pro{
+    display: flex;
+align-items: center;
+text-align: center;
+gap: 60px;
+margin-left: 230px;
+} */
+  */
+
+.ph1{
+
+    display: flex;
+    position: absolute;
+    width: 100%;
+    height: 50%;
+
+
+}
+.ph2{
+    position: relative;
+    font-size: 40px;
+}
+.ab{
+    height: 50%;
+    width: 100%;
+}
+
+
+ /* .butt{
+    width: 100px;
+    height: 30px;
+    color: rgb(54, 54, 161);
+    border-color: blue;
+    border-radius: 10px;
+}
+
+     */
