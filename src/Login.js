@@ -3,9 +3,9 @@ import "./login.css"
 
 function Login(params) {
     return(
-        <form className="">
+        <form className="one">
         <div className="">
-          <input type="text" placeholder="Login ID" />
+          <input type="text" placeholder="Login ID " />
         </div>
         <div className="">
           <input type="password" placeholder="Password" />

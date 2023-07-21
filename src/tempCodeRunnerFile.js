@@ -1,1 +1,1 @@
-desc
+  //  const {emailprop,passwordprop}=props

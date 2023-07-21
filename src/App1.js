@@ -3,7 +3,7 @@ import React ,{useState} from "react";
 function App1(params) {
     let [state,setSatate]=useState(0);
   return(
-    <div>
+    <div style={{textAlign:"center",color:"gray"}}>
         <h1>{state}</h1>
     <button
       onClick={
@@ -15,10 +15,15 @@ function App1(params) {
 <button
       onClick={
         function name(params) {
-          setSatate(state-1)
+          if (state>0) {
+            setSatate(state-1)   
+          }
+    
+      
         }
-      }>Increment</button>    
-
+        
+      }>Increment
+      </button>    
     
       </div>
 
